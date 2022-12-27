@@ -7,7 +7,7 @@ export default function NameSection({}) {
               <Image className="block rounded-3xl mr-2 w-12 h-12" src={Potrock_IMG} width={48} height={48} alt="Potrock" />
               <span className="flex flex-wrap align-center">
                 <span>
-                  Patrick B.
+                  Patrick
                 </span>
               </span>
             </div>
