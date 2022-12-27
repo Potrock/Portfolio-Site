@@ -8,7 +8,7 @@ export default function Hero({ }) {
                     </span>
                 </div>
                 <div>
-                    <span className="font-light leading-6 text-4xl text-white">I'm a full stack developer with experience in Crypto, Web3, and Machine Learning.</span>
+                    <span className="font-light leading-6 text-4xl text-white">I&apos;m a full stack developer with experience in Crypto, Web3, and Machine Learning.</span>
                 </div>
             </div>
         </div>
