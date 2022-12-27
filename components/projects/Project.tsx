@@ -20,10 +20,10 @@ export default function Project({ name, description, image, destination, techSta
                             <div className="">
                                 <span className="font-medium text-2xl leading-4">{name}</span>
                                 <div className="transition-all transform translate-y-8 opacity-0 group-hover:opacity-100 group-hover:translate-y-0 duration-200">
-                                    <p className="text-md">
+                                    <p className="pt-3 text-md">
                                         {description}
                                     </p>
-                                    <p className="text-sm">
+                                    <p className="pt-3 text-sm">
                                         {techStack}
                                     </p>
                                 </div>
