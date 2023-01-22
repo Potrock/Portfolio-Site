@@ -24,6 +24,12 @@
         "technologies": "Java"
     },
     {
+        "name": "Database Systems",
+        "courseCode": "COMP 421",
+        "description": "Database Design: conceptual design of databases (e.g., entity-relationship model), relational data model, functional dependencies. Database Manipulation: relational algebra, SQL, database application programming, triggers, access control. Database Implementation: transactions, concurrency control, recovery, query execution and query optimization.",
+        "technologies": "Java, SQL, Hadoop, Pig Latin, PostgreSQL, MySQL"
+    },
+    {
         "name": "Robotics and Intelligent Systems",
         "courseCode": "COMP 417",
         "description": "This course considers issues relevant to the design of robotic and of intelligent systems. How can robots move and interact. Robotic hardware systems. Kinematics and inverse kinematics. Sensors, sensor data interpretation and sensor fusion. Path planning. Configuration spaces. Position estimation. Intelligent systems. Spatial mapping. Multi-agent systems. Applications.",
