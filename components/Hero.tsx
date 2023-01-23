@@ -15,7 +15,7 @@ export default function Hero({}) {
 				</div>
 				<div>
 					<span className="font-light leading-6 text-2xl md:text-4xl text-white">
-						Full stack developer with experience in Finance, Crypto, and Machine Learning
+						Full Stack Developer with experience in Finance, Crypto, and Machine Learning
 					</span>
 				</div>
 			</div>

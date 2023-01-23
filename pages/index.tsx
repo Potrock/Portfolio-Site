@@ -6,15 +6,15 @@ import Projects from '../components/projects/Projects'
 export default function Home() {
   return (
     <>
-        <main className="flex flex-col w-11/12 mx-auto max-w-[1200px] grow shrink-0 basis-auto">
+        <main>
           <Hero />
-          <div className="mb-8">
+          <div className="mb-6">
             <h2 className="text-4xl font-medium text-white">
               Projects
             </h2>
           </div>
           <Projects />
-          <div className="mb-8">
+          <div className="mb-6">
             <h2 className="text-4xl font-medium text-white">
               Courses
             </h2>
