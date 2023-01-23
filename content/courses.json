@@ -16,6 +16,7 @@
         "courseCode": "COMP 303",
         "description": "Principles, mechanisms, techniques, and tools for object-oriented software design and its implementation, including encapsulation, design patterns, and unit testing.",
         "technologies": "Java, JUnit, Git"
+
     },
     {
         "name": "Algorithms and Data Structures",
