@@ -22,12 +22,21 @@ export default function Page({}) {
 						of hundreds of players and generated profit from the web
 						shop. View the trailer below.
 					</p>
-                    <p>
-                        The web shop is online at <a href="https://shop.minecreator.com" className="text-blue-500">shop.minecreator.com</a>
-                    </p>
+					<p>
+						The web shop is online at{" "}
+						<a
+							href="https://shop.minecreator.com"
+							className="text-blue-500"
+						>
+							shop.minecreator.com
+						</a>
+					</p>
 				</div>
 				<div className="justify-center pt-6">
-                    <YoutubeIFrame videoId="g97HaCf88Hg" title="MineCreator Server Trailer" />
+					<YoutubeIFrame
+						videoId="g97HaCf88Hg"
+						title="MineCreator Server Trailer"
+					/>
 				</div>
 			</div>
 		</>

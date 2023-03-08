@@ -1,5 +1,10 @@
 interface CourseProps {
-	course: {name: String; courseCode: String; description: String; technologies: String;}
+	course: {
+		name: String;
+		courseCode: String;
+		description: String;
+		technologies: String;
+	};
 }
 
 export default function Course(props: CourseProps) {
@@ -12,9 +17,9 @@ export default function Course(props: CourseProps) {
 							<span className="font-medium text-2xl leading-4">
 								{props.course.name}
 							</span>
-                            <span className="pl-2 text-sm text-gray-400">
-                                {props.course.courseCode}
-                            </span>
+							<span className="pl-2 text-sm text-gray-400">
+								{props.course.courseCode}
+							</span>
 							<div className="">
 								<p className="pt-3 text-md">
 									{props.course.description}
